@@ -1,0 +1,158 @@
+* {
+  font-family: "padauk", sans-serif;
+  line-height: 1.5;
+}
+
+body{
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(0, 0, 0, 0.7);
+}
+
+a:hover { 
+    text-decoration: none; 
+}
+
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+button, select, input, input:focus, input:hover, input:active {
+    outline: none;
+    box-shadow:none;  
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: 0px;
+}
+
+.alert{
+    margin: 10px 0px;
+}
+
+.error{
+    color: red;
+}
+
+.success{
+    color: green;
+}
+
+.error li{
+    list-style: none;
+}
+
+header{
+    padding: 10px;
+    position: fixed;
+    width: calc(100% - 20px);
+    left: 0px;
+    background-color: white;
+    top: 0px;
+    z-index: 500px;
+}
+
+header .username{
+    float: right;
+}
+
+header .logo{
+    float: left;
+}
+
+header .logo img{
+    width: 140px;
+}
+
+aside{
+    position: fixed;
+    height: calc(100% - 70px);
+    width: 15%;
+    border-right: 2px solid #f2f2f2;
+    border-top: 2px solid #f2f2f2;
+    z-index: 200;
+    top: 70px;
+}
+
+aside ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+aside ul li{
+    list-style: none;
+}
+
+aside ul li a{
+    display: block;
+    padding: 8px 20px;
+}
+
+aside ul li a i{
+    width: 25px;
+}
+
+@media only screen and (max-width: 1050px){
+    
+    aside{
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    
+    
+    header .menu_btn{
+        display: block;
+        position: absolute;
+        right: 15px;
+        top: 14px;
+        cursor: pointer;
+        z-index: 300;
+    }
+    
+    header .menu_btn span{
+        display: block;
+        width: 25px;
+        background-color: rgb(0, 0, 0, 0.7);
+        height: 4px;
+        margin: 6px 0px;
+        border-radius: 5px;
+        transition:0.5s;
+    }
+    
+    aside{
+        width: 100%;
+        background-color: white;
+        border-right: 0px solid #f2f2f2;
+        transform: scale(1, 0);
+        transform-origin: top;
+        transition: 500ms;
+        top: 62px;
+    }
+    
+    aside.show{
+        transform: scale( 1, 1);
+    }
+    
+    aside.show a{
+        opacity: 1;
+        transition: opacity 100ms ease-in-out 300ms;
+    }
+    
+    header .logo img{
+        width: 120px;
+    }
+    
+    header .username{
+        margin-right: 50px;
+        padding-top: 10px;
+    }
+}

@@ -1,0 +1,296 @@
+.about-hero {
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    height: 95vh !important;
+}
+
+.about-hero .container h1 {
+    line-height: 58px;
+    font-size: 52px;
+    font-weight: 700;
+    letter-spacing: 2.08px;
+    margin-bottom: 65px;
+    color: #fdfdfd;
+}
+
+.about-hero .container h1 span {
+    font-weight: 300 !important;
+}
+
+.about-hero img {
+    display: block;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.pattern-box {
+    background-image: url(../assets/backgrounds/about-us-pattern.png);
+}
+
+#about-us-4 {
+    padding: 135px 0;
+}
+
+#about-us-4 .container {
+    background: #fff;
+    -webkit-box-shadow: 0 0 7px 0 rgb(0 0 0 / 8%);
+    -moz-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.08);
+    box-shadow: 0 0 7px 0 rgb(0 0 0 / 8%);
+    padding: 90px 0 100px 0;
+    text-align: center;
+    width:65%;
+}
+
+.w-65-lg{
+    width:70% !important;
+}
+
+@media screen and (max-width:768px){
+    .w-65-lg{
+        width:95% !important;
+    }
+    .w-sm-100{
+        width:100% !important;
+    }
+    .map-box{
+        width:100% !important;
+        min-height: unset !important;
+        margin-top:200px;
+    }
+}
+
+.pattern-box .container .row p {
+    letter-spacing: 0.14px;
+    color: #2c3541;
+    max-width: 380px;
+    display: inline-block;
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: left;
+}
+
+.pattern-box #about-us-4 .container span {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #bbbfc2;
+    font-family: "Signika", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+.pattern-box .container h2 {
+    margin-bottom: 50px;
+    font-size: 36px;
+    color: #2e5067;
+    font-weight: 700;
+}
+
+#gm-aboutus-3 {
+    text-align: center;
+    padding: 130px 0;
+}
+
+.w-lg-ex {
+    width: 75%;
+}
+
+#gm-aboutus-2 {
+    text-align: center;
+    padding: 115px 0;
+    -webkit-box-shadow: 0 0 10px 0 rgb(0 0 0 / 29%);
+    -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.29);
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 29%);
+}
+
+#gm-aboutus-2 span {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #bbbfc2;
+    font-family: "Signika", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+#gm-aboutus-2 h2 {
+    margin-bottom: 50px;
+    font-size: 36px;
+    color: #2e5067;
+    font-weight: 700;
+}
+
+#gm-aboutus-2 p {
+    text-align: left;
+    letter-spacing: 0.14px;
+    color: #2c3541;
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.w-lg-50 {
+    width: 50%;
+}
+
+#gm-aboutus-5 {
+    height: 90vh;
+    padding-top: 110px;
+    color: #fdfdfd;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#gm-aboutus-5 span {
+    font-size: 24px;
+    font-weight: 300;
+    display: block;
+    text-align: center;
+    font-family: "Signika Negative", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 5px;
+}
+
+#gm-aboutus-5 h2 {
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    font-family: "Signika Negative", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 60px;
+}
+
+#gm-aboutus-5 p {
+    font-size: 12px;
+    font-style: italic;
+    display: block;
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#gm-aboutus-5 img {
+    display: block;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.map-div.position-absolute {
+    top: calc(90vh - 40vh);
+    min-height: 60vh;
+}
+
+.map-box {
+    min-height: 455px;
+    background: #fdfdfd;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    overflow: hidden;
+    position: relative;
+    -webkit-box-shadow: -2px 0px 7.68px 0.32px rgb(0 0 0 / 12%), -4px 0px 14.72px 1.28px rgb(0 0 0 / 12%);
+    -moz-box-shadow: -2px 0px 7.68px 0.32px rgba(0, 0, 0, 0.12), -4px 0px 14.72px 1.28px rgba(0, 0, 0, 0.12);
+    box-shadow: -2px 0px 7.68px 0.32px rgb(0 0 0 / 12%), -4px 0px 14.72px 1.28px rgb(0 0 0 / 12%);
+    color: #616b72;
+}
+
+.map-div.position-absolute .map-box img {}
+
+#gm-aboutus-6 {
+    padding-top: 80vh;
+}
+
+#gm-aboutus-6 .row {
+    -webkit-box-shadow: -2px 0px 7px 0px rgb(0 0 0 / 8%);
+    -moz-box-shadow: -2px 0px 7px 0px rgba(0, 0, 0, 0.08);
+    box-shadow: -2px 0px 7px 0px rgb(0 0 0 / 8%);
+    padding-top: 90px;
+    padding-bottom: 90px;
+    position: relative;
+}
+
+#gm-aboutus-6 h1 {
+    color: #0f4470;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 1.3;
+    padding-left: 60px;
+}
+
+#gm-aboutus-6 .container-fluid {
+    background-image: url(../assets/backgrounds/gm-aboutus-6-bottom.png);
+}
+
+#gm-aboutus-6 .container-fluid a {
+    display: block;
+    position: relative;
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-box-shadow: 2px 0 7px 0 rgb(0 0 0 / 8%) !important;
+    -moz-box-shadow: 2px 0 7px 0 rgba(0, 0, 0, 0.08) !important;
+    box-shadow: 2px 0 7px 0 rgb(0 0 0 / 8%) !important;
+    background: #fff;
+    margin-bottom: 25px;
+    padding: 38px 140px 38px 40px;
+    text-decoration: none !important;
+}
+
+#gm-aboutus-6 a strong {
+    font-size: 24px;
+    display: block;
+    color: rgba(17, 58, 86, 0.7);
+    margin-bottom: 5px;
+    -webkit-transition: all 250ms ease-in-out !important;
+    -moz-transition: all 250ms ease-in-out !important;
+    -o-transition: all 250ms ease-in-out !important;
+    transition: all 250ms ease-in-out !important;
+}
+
+#gm-aboutus-6 a span {
+    font-size: 16px;
+    display: block;
+    color: rgba(52, 64, 73, 0.4);
+    -webkit-transition: all 250ms ease-in-out !important;
+    -moz-transition: all 250ms ease-in-out !important;
+    -o-transition: all 250ms ease-in-out !important;
+    transition: all 250ms ease-in-out !important;
+}
+
+.about-icon {
+    background-color: rgba(255, 179, 69, 0.5);
+    padding: 5px 13px;
+    position: absolute;
+    top: 72px;
+    right: 32px;
+}
+
+@media screen and (max-width: 991px) {
+    .about-hero {
+        height: 50vh !important;
+    }
+    .w-lg-ex {
+        width: 50%;
+    }
+    .w-lg-50 {
+        width: 100%;
+    }
+    #gm-aboutus-6 h1 {
+        font-size: 42px;
+        margin-bottom: 75px;
+        padding-left: 0;
+    }
+    #gm-aboutus-6 {
+        padding-top: 70vh;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .about-hero {
+        height: 50vh !important;
+    }
+    .w-lg-ex {
+        width: 50%;
+    }
+    #gm-aboutus-6 {
+        padding-top: 45vh;
+    }
+}

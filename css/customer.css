@@ -1,0 +1,16 @@
+.top-background{
+    min-height: 75vh;
+    background-image: url("../assets/pricing/backgound-1.jpg");
+    margin-top:3%;
+    background-size: cover;
+
+}
+
+.questions button:hover,.questions  button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    }
+    .questions button i{
+        width:25px;
+        height: 25px;
+    }

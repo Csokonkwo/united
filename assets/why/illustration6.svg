@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240.78 154.8" id="gm-icon-secure">
+                  <defs>
+                    <style>
+                    .gm-icon-secure-cls-2,
+                    .gm-icon-secure-cls-3,
+                    .gm-icon-secure-cls-4 {
+                      fill: #e2e3e4
+                    }
+
+                    .gm-icon-secure-cls-2,
+                    .gm-icon-secure-cls-3 {
+                      stroke: #e3e4e5
+                    }
+
+                    .gm-icon-secure-cls-11,
+                    .gm-icon-secure-cls-18,
+                    .gm-icon-secure-cls-2,
+                    .gm-icon-secure-cls-24,
+                    .gm-icon-secure-cls-26,
+                    .gm-icon-secure-cls-3 {
+                      stroke-miterlimit: 10
+                    }
+
+                    .gm-icon-secure-cls-11,
+                    .gm-icon-secure-cls-18,
+                    .gm-icon-secure-cls-3 {
+                      stroke-width: 2px
+                    }
+
+                    .gm-icon-secure-cls-18,
+                    .gm-icon-secure-cls-24,
+                    .gm-icon-secure-cls-26,
+                    .gm-icon-secure-cls-3 {
+                      stroke-linecap: round
+                    }
+
+                    .gm-icon-secure-cls-5 {
+                      fill: #e3e4e5
+                    }
+
+                    .gm-icon-secure-cls-7 {
+                      fill: #e8eef1
+                    }
+
+                    .gm-icon-secure-cls-8 {
+                      fill: #fff
+                    }
+
+                    .gm-icon-secure-cls-24 {
+                      fill-rule: evenodd
+                    }
+
+                    .gm-icon-secure-cls-11,
+                    .gm-icon-secure-cls-18,
+                    .gm-icon-secure-cls-24,
+                    .gm-icon-secure-cls-26 {
+                      fill: none
+                    }
+
+                    .gm-icon-secure-cls-11 {
+                      stroke: #faa934
+                    }
+
+                    .gm-icon-secure-cls-13 {
+                      fill: #faa934
+                    }
+
+                    .gm-icon-secure-cls-14 {
+                      fill: #8bc9ed
+                    }
+
+                    .gm-icon-secure-cls-15 {
+                      fill: #fbb147
+                    }
+
+                    .gm-icon-secure-cls-16 {
+                      fill: #95cef0
+                    }
+
+                    .gm-icon-secure-cls-17 {
+                      fill: #104470
+                    }
+
+                    .gm-icon-secure-cls-18 {
+                      stroke: #8bc9ed
+                    }
+
+                    .gm-icon-secure-cls-19 {
+                      fill: #094b7c
+                    }
+
+                    .gm-icon-secure-cls-24 {
+                      stroke: #103a56;
+                      stroke-width: 3.42px
+                    }
+
+                    .gm-icon-secure-cls-26 {
+                      stroke: #fcba63;
+                      stroke-width: 4px
+                    }
+                    </style>
+                    <linearGradient id="linear-gradient" x1="115.66" y1="96.13" x2="160.15" y2="109.74" gradientUnits="userSpaceOnUse">
+                      <stop offset="0" stop-color="#808184"></stop>
+                      <stop offset="1" stop-color="#123c63" stop-opacity="0"></stop>
+                    </linearGradient>
+                  </defs>
+                  <circle cx="11.58" cy="51.89" r="2.64" stroke-width="2" stroke-miterlimit="10" stroke="#e3e4e5" fill="#e2e3e4"></circle>
+                  <path class="gm-icon-secure-cls-2" d="M74.52 146.74l-1.29-4.16-4.15-1.28 4.15-1.28 1.28-4.16 1.28 4.16 4.16 1.27-4.15 1.29-1.28 4.16zM133.54 12.57l-1.29-4.15-4.16-1.28 4.16-1.28 1.28-4.16 1.28 4.15 4.16 1.28-4.16 1.29-1.27 4.15zM54.41 90.79l-1.29-4.16-4.16-1.28 4.16-1.28 1.28-4.16 1.28 4.16 4.16 1.27-4.16 1.29-1.27 4.16zM63.07 49.12a1.05 1.05 0 0 1 1.05 1.06v4.22a1.06 1.06 0 0 1-2.11 0v-4.22a1.07 1.07 0 0 1 1.06-1.06zM63.06 36.46a1 1 0 0 1 1 1v4.22a1.06 1.06 0 1 1-2.11 0v-4.17a1.05 1.05 0 0 1 1.11-1.05zM54.62 44.91h4.22a1.06 1.06 0 0 1 0 2.12h-4.22a1.06 1.06 0 0 1 0-2.11zM67.29 44.9h4.22a1.06 1.06 0 0 1 0 2.11h-4.22a1.06 1.06 0 1 1 0-2.11z"></path>
+                  <circle class="gm-icon-secure-cls-2" cx="63.07" cy="45.96" r="1.06"></circle>
+                  <path class="gm-icon-secure-cls-3" d="M170.87 153.57v-4.22M170.86 140.9v-4.22M162.42 145.13h4.22M175.09 145.12h4.22"></path>
+                  <circle class="gm-icon-secure-cls-2" cx="170.86" cy="145.12" r="1.06"></circle>
+                  <path class="gm-icon-secure-cls-5" d="M88.91 20.82a1.22 1.22 0 0 0 0-2.44 1.22 1.22 0 0 0 0 2.44z"></path>
+                  <path class="gm-icon-secure-cls-4" d="M48.83 71.55v.18"></path>
+                  <path class="gm-icon-secure-cls-5" d="M48.27 71.55v.18a.57.57 0 0 0 1.13 0v-.18a.57.57 0 0 0-1.13 0z"></path>
+                  <path class="gm-icon-secure-cls-4" d="M43.9 67v.18"></path>
+                  <path class="gm-icon-secure-cls-5" d="M43.66 67.39h.08a.32.32 0 0 0 .33 0h.07a.47.47 0 1 0-.48 0zM224.12 61a1.6 1.6 0 0 0 0-3.19 1.6 1.6 0 0 0 0 3.19z"></path>
+                  <path class="gm-icon-secure-cls-4" d="M196.69 87.79l.17.18"></path>
+                  <path class="gm-icon-secure-cls-5" d="M195.88 89.17l.11.06a1.57 1.57 0 0 0 2.13-2.14l-.06-.1a1.59 1.59 0 1 0-2.18 2.18z"></path>
+                  <path class="gm-icon-secure-cls-2" d="M193.11 112a3.71 3.71 0 0 1 4.06-2.75 3.72 3.72 0 0 1 3.18 4.15 3.74 3.74 0 0 1-1.42 2.45 3.66 3.66 0 0 1-2.73.73 3.71 3.71 0 0 1-3.18-4.15 3.29 3.29 0 0 1 .09-.43zm5.11 1.31a1.25 1.25 0 0 0 0-.19 1.54 1.54 0 0 0-.31-1.17 1.57 1.57 0 0 0-1.05-.6 1.54 1.54 0 0 0-1.17.31 1.58 1.58 0 1 0 2.5 1.65z"></path>
+                  <circle cx="50.31" cy="114.12" r="2.64" stroke-width="2" stroke-miterlimit="10" stroke="#e3e4e5" fill="#e2e3e4"></circle>
+                  <path class="gm-icon-secure-cls-3" d="M205.63 54.27v-4.22M205.62 41.61v-4.22M197.18 45.84l4.22-.01M209.85 45.83l4.22-.01"></path>
+                  <circle class="gm-icon-secure-cls-2" cx="205.62" cy="45.83" r="1.06"></circle>
+                  <path class="gm-icon-secure-cls-2" d="M205.63 55.33a1.06 1.06 0 0 0 1.06-1.06v-2h-2.12v2a1.05 1.05 0 0 0 1.06 1.06z"></path>
+                  <g>
+                    <circle class="gm-icon-secure-cls-7" cx="121.82" cy="86.36" r="66.62"></circle>
+                    <rect class="gm-icon-secure-cls-7" x="25.22" y="109.2" width="57.1" height="22.84" rx="11.42" transform="rotate(-180 53.77 120.62)"></rect>
+                    <rect class="gm-icon-secure-cls-7" x="33.79" y="63.52" width="55.68" height="22.84" rx="11.42" transform="rotate(180 61.625 74.94)"></rect>
+                    <rect class="gm-icon-secure-cls-8" x="34.74" y="86.36" width="61.86" height="22.84" rx="11.42" transform="rotate(180 65.67 97.78)"></rect>
+                    <rect class="gm-icon-secure-cls-8" x="11.9" y="40.68" width="61.86" height="22.84" rx="11.42" transform="rotate(180 42.825 52.1)"></rect>
+                    <rect class="gm-icon-secure-cls-7" x="152.28" y="40.68" width="60.91" height="22.84" rx="11.42"></rect>
+                    <rect class="gm-icon-secure-cls-7" x="143.71" y="86.36" width="57.1" height="22.84" rx="11.42"></rect>
+                    <rect class="gm-icon-secure-cls-8" x="167.5" y="63.52" width="53.77" height="22.84" rx="11.42"></rect>
+                    <rect class="gm-icon-secure-cls-7" x="210.33" y="86.36" width="30.46" height="22.84" rx="11.42" transform="rotate(-180 225.555 97.78)"></rect>
+                    <rect class="gm-icon-secure-cls-7" y="63.52" width="26.65" height="22.84" rx="11.42"></rect>
+                    <rect class="gm-icon-secure-cls-8" x="134.67" y="40.68" width="34.26" height="22.84" rx="11.42"></rect>
+                    <rect class="gm-icon-secure-cls-8" x="102.79" y="63.52" width="34.26" height="22.84" rx="11.42"></rect>
+                    <rect class="gm-icon-secure-cls-8" x="142.76" y="109.2" width="54.72" height="22.84" rx="11.42"></rect>
+                    <g opacity=".8">
+                      <path d="M165.36 47.64a3.57 3.57 0 0 0-3.5-3.35c-3-.06-6.07-.09-9.16-.19 1.82 19.3 10.32 33.47 4.45 49.84-6.49 18.11-35.07 31.67-41.76 34.49a3.58 3.58 0 0 1-2.69 0 128.14 128.14 0 0 0 12.77 6.41 3.58 3.58 0 0 0 2.8 0c6.7-2.82 35.28-16.39 41.77-34.49 6.16-17.15-3.52-31.91-4.68-52.71z" opacity=".5" fill-rule="evenodd" fill="#9bbecf"></path>
+                    </g>
+                    <circle class="gm-icon-secure-cls-11" cx="114.99" cy="128.7" r="2.38"></circle>
+                    <circle cx="83.86" cy="94.97" r="2.38" stroke-width="3" stroke="#faa934" fill="none" stroke-miterlimit="10"></circle>
+                    <path class="gm-icon-secure-cls-13" d="M180 69.66a3.81 3.81 0 0 1-.43-7.59 3.81 3.81 0 0 1 3.43 6.14 3.77 3.77 0 0 1-2.54 1.42 3.44 3.44 0 0 1-.46.03zm0-4.76h-.11a.92.92 0 0 0-.63.35.94.94 0 0 0-.2.7 1 1 0 0 0 .35.64.94.94 0 0 0 .7.2 1 1 0 0 0 .64-.36.94.94 0 0 0 .2-.7.93.93 0 0 0-.36-.63.91.91 0 0 0-.59-.2z"></path>
+                    <path class="gm-icon-secure-cls-14" d="M169.47 40.31l1.16 3.75 3.75 1.15-3.75 1.16-1.16 3.74-1.15-3.74-3.75-1.16 3.75-1.15 1.15-3.75z"></path>
+                    <path class="gm-icon-secure-cls-13" d="M111.42 30.79l1.16 3.75 3.74 1.16-3.74 1.15-1.16 3.75-1.15-3.75-3.75-1.15 3.75-1.16 1.15-3.75z"></path>
+                    <path class="gm-icon-secure-cls-15" d="M116.18 145l1.15 3.75 3.75 1.15-3.75 1.16-1.15 3.74-1.16-3.74-3.74-1.16 3.74-1.15 1.16-3.75z"></path>
+                    <path class="gm-icon-secure-cls-16" d="M90.48 123.11l1.16 3.75 3.74 1.15-3.74 1.16-1.16 3.74-1.15-3.74-3.75-1.16 3.75-1.15 1.15-3.75z"></path>
+                    <path class="gm-icon-secure-cls-13" d="M43.85 68.86L45 72.61l3.75 1.15L45 74.92l-1.15 3.75-1.16-3.75-3.74-1.16 3.74-1.15 1.16-3.75z"></path>
+                    <path class="gm-icon-secure-cls-14" d="M155.2 117.4l1.15 3.75 3.75 1.15-3.75 1.16-1.15 3.74-1.16-3.74-3.74-1.16 3.74-1.15 1.16-3.75z"></path>
+                    <path class="gm-icon-secure-cls-13" d="M187.56 74.57l1.15 3.75 3.75 1.15-3.75 1.16-1.15 3.75-1.16-3.75-3.74-1.16 3.74-1.15 1.16-3.75z"></path>
+                    <path class="gm-icon-secure-cls-17" d="M179.72 112.12a1 1 0 0 1-.95-1v-3.81a.95.95 0 1 1 1.9 0v3.81a1 1 0 0 1-.95 1zM179.72 123.53a1 1 0 0 1-.95-1v-3.8a1 1 0 1 1 1.9 0v3.8a1 1 0 0 1-.95 1zM187.33 115.92h-3.81a.95.95 0 0 1 0-1.9h3.81a.95.95 0 0 1 0 1.9zM175.91 115.92h-3.8a.95.95 0 0 1 0-1.9h3.8a1 1 0 1 1 0 1.9z"></path>
+                    <circle class="gm-icon-secure-cls-17" cx="179.72" cy="114.97" r=".95"></circle>
+                    <path class="gm-icon-secure-cls-18" d="M82.64 17.9v3.8M82.64 29.31v3.81M90.25 25.51h-3.8M78.84 25.51h-3.81"></path>
+                    <circle class="gm-icon-secure-cls-14" cx="82.64" cy="25.51" r=".95"></circle>
+                    <path class="gm-icon-secure-cls-19" d="M159.1 34a.66.66 0 0 0 0-1.32.66.66 0 0 0 0 1.32zM173.05 55.48a.05.05 0 0 0 0-.1.05.05 0 0 0 0 .1zM54.72 91a.66.66 0 0 0 0-1.31.66.66 0 0 0 0 1.31zM154.42 142.19h.15a.28.28 0 0 0 0-.54l-.15-.05c-.52-.16-.53.8 0 .63zM156.4 139.92a1.22 1.22 0 0 0 0-2.43 1.22 1.22 0 0 0 0 2.43zM185 99.67a.94.94 0 0 0 0-1.88.94.94 0 0 0 0 1.88zM193.13 91.91v-.16a.57.57 0 0 0-1.13 0v.16a.57.57 0 0 0 1.13 0zM197.24 95.63a.47.47 0 0 0-.57.74c.49.49 1.17-.42.57-.74z"></path>
+                    <path class="gm-icon-secure-cls-13" d="M136.41 137.6a1.6 1.6 0 0 0 0-3.19 1.6 1.6 0 0 0 0 3.19zM34.58 104.29a1.6 1.6 0 0 0 0-3.19 1.6 1.6 0 0 0 0 3.19z"></path>
+                    <path class="gm-icon-secure-cls-19" d="M60.13 75.78h-.1a1.57 1.57 0 0 0-2.13 2.14l.1.08a1.59 1.59 0 1 0 2.18-2.18zM81.69 49.73h-.16a.81.81 0 0 0-.8.8v.16a.94.94 0 1 0 .94-.94zM138.32 37.84a1.13 1.13 0 0 0 0-2.25 1.13 1.13 0 0 0 0 2.25z"></path>
+                    <path class="gm-icon-secure-cls-14" d="M179.72 106.41a1 1 0 0 0-.95 1v1.84h1.9v-1.84a1 1 0 0 0-.95-1z"></path>
+                    <path class="gm-icon-secure-cls-13" d="M82.56 63.88a3.33 3.33 0 0 1-3.67 2.48A3.34 3.34 0 0 1 76 62.62a3.32 3.32 0 0 1 1.28-2.21 3.28 3.28 0 0 1 2.46-.65 3.32 3.32 0 0 1 2.86 3.73 3.91 3.91 0 0 1-.04.39zM78 62.7a.51.51 0 0 0 0 .17 1.43 1.43 0 0 0 1.22 1.6A1.43 1.43 0 1 0 78 62.7z"></path>
+                    <path class="gm-icon-secure-cls-14" d="M79.77 59.76a3.28 3.28 0 0 0-2.46.65A3.32 3.32 0 0 0 76 62.62a2.38 2.38 0 0 0 0 .38 10.91 10.91 0 0 0 1.89.12 1 1 0 0 1 0-.25.51.51 0 0 1 0-.17 1.42 1.42 0 0 1 2.77 0 11.62 11.62 0 0 0 1.79-.65 3.31 3.31 0 0 0-2.68-2.29z"></path>
+                    <circle class="gm-icon-secure-cls-11" cx="169.96" cy="89.73" r="2.38"></circle>
+                    <path class="gm-icon-secure-cls-13" d="M162.9 76.86a.66.66 0 0 0 0-1.31.66.66 0 0 0 0 1.31z"></path>
+                    <path class="gm-icon-secure-cls-18" d="M51.23 107.36v3.81M51.23 118.78v3.8M58.84 114.97h-3.8M47.43 114.97h-3.8"></path>
+                    <circle class="gm-icon-secure-cls-15" cx="51.23" cy="114.97" r=".95"></circle>
+                    <path class="gm-icon-secure-cls-17" d="M51.23 106.41a1 1 0 0 0-.95 1v1.84h1.91v-1.84a1 1 0 0 0-.96-1z"></path>
+                    <path class="gm-icon-secure-cls-16" d="M82.91 95.08a.94.94 0 0 1 .2-.7l.09-.08a11.24 11.24 0 0 0-1.2-2.62 3.5 3.5 0 0 0-1.09.94 3.79 3.79 0 0 0 2.83 6.14v-1a11.88 11.88 0 0 0-.17-1.9 1.14 1.14 0 0 1-.31-.16 1 1 0 0 1-.35-.62z"></path>
+                    <path class="gm-icon-secure-cls-19" d="M125.63 119.32a.76.76 0 0 0 0-1.52.76.76 0 0 0 0 1.52z"></path>
+                    <path d="M121.34 37.7c-11.15 6.85-23.49 6.21-35 6.45a3.57 3.57 0 0 0-3.51 3.35C81.7 68.3 72 83.06 78.17 100.25c6.49 18.1 35.08 31.67 41.77 34.49a3.61 3.61 0 0 0 2.81 0c6.69-2.82 35.28-16.39 41.77-34.49 6.16-17.19-3.53-31.95-4.68-52.75a3.58 3.58 0 0 0-3.51-3.35c-11.49-.24-23.83.4-34.99-6.45z" fill-rule="evenodd" fill="#fff"></path>
+                    <path d="M159.84 47.5a3.58 3.58 0 0 0-3.51-3.35c-3-.06-6.07-.09-9.16-.19 1.82 19.3 10.33 33.47 4.46 49.84-6.49 18.11-35.08 31.67-41.77 34.49a3.58 3.58 0 0 1-2.69 0 129.26 129.26 0 0 0 12.77 6.41 3.61 3.61 0 0 0 2.81 0c6.69-2.82 35.28-16.39 41.77-34.49 6.16-17.15-3.52-31.91-4.68-52.71z" fill="#d3d3d3" opacity=".5" fill-rule="evenodd"></path>
+                    <path d="M129.82 81.71a7.44 7.44 0 0 1-4.33 7.14s.59 5.06-.66 6.68a3.74 3.74 0 0 1-3.53 1.62v-15.9z" fill="#b9babb" fill-rule="evenodd"></path>
+                    <path d="M166.17 79.54h-45.44v17l6.81 35.22s40.9-13.59 38.63-52.22z" opacity=".22" fill="url(#linear-gradient)"></path>
+                    <path class="gm-icon-secure-cls-24" d="M81.84 72.12c0 .2-.09.4-.13.61M158.91 63.05a105.59 105.59 0 0 1-2.11-15.55 3.42 3.42 0 0 0-3.22-3.35c-10.59-.24-22 .4-32.24-6.45-10.27 6.85-21.64 6.21-32.23 6.45a3.43 3.43 0 0 0-3.23 3.35 122 122 0 0 1-3.08 20.19M161.07 73.3c-.26-1.27-.34-1.74-.62-3M148.06 118.27c5.78-5.17 10.83-11.28 13.05-18a36.56 36.56 0 0 0 1.75-8.72c.1-1.28.14-2.56.13-3.83 0-1.82-.16-3.63-.37-5.45-.11-1-.25-1.91-.4-2.88M139.92 124.69q1.74-1.23 3.5-2.58M80.81 77.29c-1.37 7.69-1.84 15.07.76 23 6 18.1 32.32 31.67 38.48 34.49a3.08 3.08 0 0 0 2.59 0 113.76 113.76 0 0 0 11.83-6.45"></path>
+                    <path d="M121.72 98.2h-1.66a3 3 0 0 1-3-3v-9s-3.23-3.25-3.73-4.66a10.23 10.23 0 0 1 0-5.16 7.48 7.48 0 0 1 7.47-7.46h1.2a7.48 7.48 0 0 1 7.46 7.46 9.87 9.87 0 0 1 0 5.3c-.58 1.51-4.35 4.79-4.35 4.79v8.33a3.41 3.41 0 0 1-3.39 3.4z" fill="#cccbcb" stroke="#0f4470" stroke-width="3" stroke-miterlimit="10"></path>
+                    <path class="gm-icon-secure-cls-26" d="M118.03 81.29l16.9.14M121.32 91.69l-.13-9.89"></path>
+                    <path d="M150.83 81.43c-.53 6.84-4.11 11.18-8.49 8.54-2.87-1.72-5.23-2.85-5.71-8.57-.57-6.78 4-9.06 6.25-10.19 4.19-2.1 8.5 3.22 7.95 10.22z" stroke="#fcba63" stroke-width="4" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-miterlimit="10"></path>
+                  </g>
+                </svg>

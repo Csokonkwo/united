@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 253.31 163.11" id="gm-icon-dashboard">
+                  <defs>
+                    <style>
+                    .gm-icon-dashboard-cls-1 {
+                      fill: #e8eef1
+                    }
+
+                    .gm-icon-dashboard-cls-2 {
+                      fill: #fff
+                    }
+
+                    .gm-icon-dashboard-cls-3 {
+                      fill: #9fd3f2;
+                      stroke: #faa934
+                    }
+
+                    .gm-icon-dashboard-cls-10,
+                    .gm-icon-dashboard-cls-3,
+                    .gm-icon-dashboard-cls-8 {
+                      stroke-miterlimit: 10
+                    }
+
+                    .gm-icon-dashboard-cls-3,
+                    .gm-icon-dashboard-cls-8 {
+                      stroke-width: 2px
+                    }
+
+                    .gm-icon-dashboard-cls-4 {
+                      fill: #8bc9ed
+                    }
+
+                    .gm-icon-dashboard-cls-5 {
+                      fill: #fbb147
+                    }
+
+                    .gm-icon-dashboard-cls-6 {
+                      fill: #faa934
+                    }
+
+                    .gm-icon-dashboard-cls-7 {
+                      fill: #104470
+                    }
+
+                    .gm-icon-dashboard-cls-10,
+                    .gm-icon-dashboard-cls-8 {
+                      fill: none;
+                      stroke: #8bc9ed
+                    }
+
+                    .gm-icon-dashboard-cls-8 {
+                      stroke-linecap: round
+                    }
+
+                    .gm-icon-dashboard-cls-9 {
+                      fill: #094b7c
+                    }
+
+                    .gm-icon-dashboard-cls-10 {
+                      stroke-width: 2px
+                    }
+
+                    .gm-icon-dashboard-cls-11 {
+                      fill: #9bbfd0;
+                      opacity: .6
+                    }
+
+                    .gm-icon-dashboard-cls-12 {
+                      fill: #fcba63
+                    }
+
+                    .gm-icon-dashboard-cls-14 {
+                      fill: #f2f2f3
+                    }
+
+                    .gm-icon-dashboard-cls-15 {
+                      fill: #dbdcde
+                    }
+                    </style>
+                  </defs>
+                  <ellipse class="gm-icon-dashboard-cls-1" cx="128.16" cy="93.91" rx="70.09" ry="67.35"></ellipse>
+                  <rect class="gm-icon-dashboard-cls-1" x="26.53" y="117" width="60.07" height="23.09" rx="8.5" transform="rotate(180 56.57 128.55)"></rect>
+                  <rect class="gm-icon-dashboard-cls-1" x="35.54" y="70.82" width="58.57" height="23.09" rx="8.5" transform="rotate(-180 64.83 82.36)"></rect>
+                  <rect class="gm-icon-dashboard-cls-2" x="36.54" y="93.91" width="65.08" height="23.09" rx="8.5" transform="rotate(180 69.085 105.455)"></rect>
+                  <rect class="gm-icon-dashboard-cls-2" x="12.52" y="47.72" width="65.08" height="23.09" rx="8.5" transform="rotate(-180 45.055 59.27)"></rect>
+                  <rect class="gm-icon-dashboard-cls-1" x="160.19" y="47.72" width="64.08" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-dashboard-cls-1" x="151.18" y="93.91" width="60.07" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-dashboard-cls-2" x="176.21" y="70.82" width="56.57" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-dashboard-cls-1" x="221.27" y="93.91" width="32.04" height="23.09" rx="8.5" transform="rotate(180 237.29 105.455)"></rect>
+                  <path class="gm-icon-dashboard-cls-1" d="M16 70.82h-4A11.82 11.82 0 0 0 0 82.36a11.83 11.83 0 0 0 12 11.55h4a11.82 11.82 0 0 0 12-11.55 11.81 11.81 0 0 0-12-11.54z"></path>
+                  <rect class="gm-icon-dashboard-cls-2" x="141.67" y="47.72" width="36.04" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-dashboard-cls-2" x="108.13" y="70.82" width="36.04" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-dashboard-cls-2" x="150.18" y="117" width="57.57" height="23.09" rx="8.5"></rect>
+                  <ellipse class="gm-icon-dashboard-cls-3" cx="237.88" cy="117.46" rx="2.5" ry="2.4"></ellipse>
+                  <path class="gm-icon-dashboard-cls-4" d="M178.29 31l1.21 3.78 3.95 1.17-3.95 1.17-1.21 3.79-1.22-3.79-3.94-1.17 3.94-1.17 1.22-3.78z"></path>
+                  <path class="gm-icon-dashboard-cls-5" d="M122.22 153.19l1.22 3.79 3.94 1.17-3.94 1.17-1.22 3.78-1.22-3.78-3.94-1.17 3.94-1.17 1.22-3.79z"></path>
+                  <path class="gm-icon-dashboard-cls-6" d="M197.31 81.99l1.22 3.79 3.94 1.17-3.94 1.16-1.22 3.79-1.21-3.79-3.94-1.16 3.94-1.17 1.21-3.79z"></path>
+                  <path class="gm-icon-dashboard-cls-7" d="M189.06 120a1 1 0 0 1-1-1v-3.85a1 1 0 0 1 2 0V119a1 1 0 0 1-1 1zM189.06 131.49a1 1 0 0 1-1-1v-3.85a1 1 0 0 1 2 0v3.85a1 1 0 0 1-1 1zM197.07 123.8h-4a1 1 0 1 1 0-1.93h4a1 1 0 1 1 0 1.93zM185.06 123.8h-4a1 1 0 1 1 0-1.93h4a1 1 0 1 1 0 1.93z"></path>
+                  <ellipse class="gm-icon-dashboard-cls-7" cx="189.06" cy="122.83" rx="1" ry=".96"></ellipse>
+                  <path class="gm-icon-dashboard-cls-8" d="M86.94 24.7v3.84M86.94 36.23v3.85M94.94 32.39h-4M82.94 32.39h-4.01"></path>
+                  <ellipse class="gm-icon-dashboard-cls-4" cx="86.94" cy="32.39" rx="1" ry=".96"></ellipse>
+                  <path class="gm-icon-dashboard-cls-9" d="M164.53 148.05a1.22 1.22 0 0 0 0-2.44 1.22 1.22 0 0 0 0 2.44zM203.14 99.52v-.16a.56.56 0 0 0-1.12 0v.16a.56.56 0 0 0 1.12 0zM207.49 103.29a.47.47 0 0 0-.57.73c.49.49 1.17-.4.57-.73z"></path>
+                  <path class="gm-icon-dashboard-cls-6" d="M36.38 112a1.6 1.6 0 0 0 0-3.19 1.6 1.6 0 0 0 0 3.19z"></path>
+                  <path class="gm-icon-dashboard-cls-9" d="M63.21 83.23h-.1A1.57 1.57 0 0 0 61 85.31l.05.1a1.59 1.59 0 1 0 2.18-2.18z"></path>
+                  <path class="gm-icon-dashboard-cls-4" d="M65.82 62.53a3.32 3.32 0 0 1-1.26 1.83A3.55 3.55 0 0 1 62 65a3.48 3.48 0 0 1-2.32-1.28 3.27 3.27 0 0 1-.68-2.47A3.34 3.34 0 0 1 60.3 59a3.56 3.56 0 0 1 2.59-.67 3.39 3.39 0 0 1 3 3.78 2.83 2.83 0 0 1-.07.42zM61 61.33a1 1 0 0 0 0 .17 1.44 1.44 0 0 0 .3 1.07 1.52 1.52 0 0 0 1 .55 1.5 1.5 0 0 0 1.11-.29 1.4 1.4 0 0 0 .58-.95 1.45 1.45 0 0 0-1.29-1.62 1.49 1.49 0 0 0-1.7 1.07z"></path>
+                  <ellipse class="gm-icon-dashboard-cls-10" cx="201.21" cy="60.74" rx="2.5" ry="2.4"></ellipse>
+                  <path class="gm-icon-dashboard-cls-8" d="M53.9 115.14v3.85M53.9 126.68v3.85M61.9 122.83h-4M49.9 122.83h-4.01"></path>
+                  <ellipse class="gm-icon-dashboard-cls-5" cx="53.9" cy="122.83" rx="1" ry=".96"></ellipse>
+                  <path class="gm-icon-dashboard-cls-7" d="M53.9 114.18a1 1 0 0 0-1 1V117h2v-1.86a1 1 0 0 0-1-.96z"></path>
+                  <circle class="gm-icon-dashboard-cls-3" cx="6" cy="50.2" r="2.64"></circle>
+                  <path class="gm-icon-dashboard-cls-4" d="M68.94 145.04l-1.28-4.16-4.16-1.27 4.15-1.29 1.28-4.16 1.29 4.16 4.16 1.28-4.16 1.28-1.28 4.16z"></path>
+                  <path class="gm-icon-dashboard-cls-5" d="M127.96 10.88l-1.29-4.16-4.15-1.28 4.15-1.28L127.95 0l1.29 4.16 4.15 1.27-4.15 1.29-1.28 4.16z"></path>
+                  <path class="gm-icon-dashboard-cls-6" d="M48.83 89.09l-1.29-4.15-4.16-1.28 4.16-1.29 1.28-4.16 1.28 4.16 4.16 1.28-4.15 1.28-1.28 4.16z"></path>
+                  <path class="gm-icon-dashboard-cls-7" d="M57.49 47.43a1.05 1.05 0 0 1 1.06 1v4.27a1.06 1.06 0 1 1-2.11 0v-4.22a1 1 0 0 1 1.05-1.05zM57.48 34.76a1.06 1.06 0 0 1 1.06 1.06V40a1.06 1.06 0 0 1-2.11 0v-4.18a1.05 1.05 0 0 1 1.05-1.06zM49.05 43.21h4.22a1.06 1.06 0 0 1 0 2.11h-4.22a1.06 1.06 0 1 1 0-2.11zM61.71 43.2h4.22a1.06 1.06 0 1 1 0 2.11h-4.22a1.06 1.06 0 0 1 0-2.11z"></path>
+                  <circle class="gm-icon-dashboard-cls-7" cx="57.49" cy="44.26" r="1.06"></circle>
+                  <path class="gm-icon-dashboard-cls-8" d="M169.52 136.61l-.01-4.22M169.51 123.94l-.01-4.22M161.07 128.17h4.22M173.73 128.16h4.22"></path>
+                  <circle class="gm-icon-dashboard-cls-4" cx="169.51" cy="128.17" r="1.06"></circle>
+                  <path class="gm-icon-dashboard-cls-9" d="M83.34 19.12a1.22 1.22 0 0 0 0-2.44 1.22 1.22 0 0 0 0 2.44zM42.69 69.86V70a.57.57 0 0 0 1.13 0v-.17a.57.57 0 0 0-1.13 0zM38.09 65.69h.07a.29.29 0 0 0 .33 0h.07a.47.47 0 1 0-.47 0z"></path>
+                  <path class="gm-icon-dashboard-cls-6" d="M218.54 59.33a1.6 1.6 0 0 0 0-3.19 1.6 1.6 0 0 0 0 3.19z"></path>
+                  <path class="gm-icon-dashboard-cls-9" d="M190.31 87.47l.1.06a1.57 1.57 0 0 0 2.13-2.13v-.11a1.59 1.59 0 1 0-2.18 2.18z"></path>
+                  <path class="gm-icon-dashboard-cls-4" d="M187.53 110.33a3.61 3.61 0 0 1 1.33-2 3.69 3.69 0 0 1 5.91 3.41 3.69 3.69 0 0 1-7.32-1 3.39 3.39 0 0 1 .08-.41zm5.11 1.31a1.06 1.06 0 0 0 0-.19 1.6 1.6 0 0 0-.32-1.17 1.55 1.55 0 0 0-1.05-.6 1.6 1.6 0 0 0-1.17.31 1.59 1.59 0 1 0 2.5 1.65z"></path>
+                  <circle class="gm-icon-dashboard-cls-10" cx="44.73" cy="112.42" r="2.64"></circle>
+                  <path class="gm-icon-dashboard-cls-8" d="M200.06 52.58l-.01-4.23M200.04 39.91v-4.22M191.61 44.14h4.22M204.27 44.13h4.22"></path>
+                  <circle class="gm-icon-dashboard-cls-5" cx="200.05" cy="44.13" r="1.06"></circle>
+                  <path class="gm-icon-dashboard-cls-7" d="M200.06 53.63a1 1 0 0 0 1.05-1.05v-2H199v2a1.05 1.05 0 0 0 1.06 1.05z"></path>
+                  <rect class="gm-icon-dashboard-cls-11" x="118.63" y="106.54" width="26.62" height="35.24" rx="6.21"></rect>
+                  <circle class="gm-icon-dashboard-cls-11" cx="131.86" cy="84.1" r="26.9"></circle>
+                  <path class="gm-icon-dashboard-cls-2" d="M154.26 86a28.15 28.15 0 1 0-42.18 24.38v27.75l4 7.57h19.32l4.74-7.57v-27.76A28.12 28.12 0 0 0 154.26 86z"></path>
+                  <path class="gm-icon-dashboard-cls-12" d="M140.14 138.13l-4.74 7.56h-19.33l-3.99-7.56h28.06z"></path>
+                  <path d="M136.44 147.56h-21.5l-4.73-9v-27.13a30 30 0 0 1-7.07-44.77l2.86 2.41a26.26 26.26 0 0 0 7 39.68l.94.54v28.37l3.24 6.16h17.18l3.9-6.23v-28.3l.93-.54a26.27 26.27 0 0 0-23-47.12l-1.41-3.47A30 30 0 0 1 142 111.43v27.23z" fill="#0f4470"></path>
+                  <path class="gm-icon-dashboard-cls-14" d="M108.7 66.3l-2.7-2.63a17.14 17.14 0 0 1 4.57-3.4l.53-.3 1.9 3.23-.54.31a13.67 13.67 0 0 0-3.76 2.79z"></path>
+                  <path class="gm-icon-dashboard-cls-15" d="M107.84 123.49h36.53v3.74h-36.53zM107.84 129.87h36.53v3.74h-36.53zM107.84 136.25h36.53v3.74h-36.53z"></path>
+                  <path class="gm-icon-dashboard-cls-12" d="M124.03 46.36h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-70.06 138.187 52.412)" d="M134.24 50.54h7.9v3.74h-7.9z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-50.07 149.032 58.573)" d="M145.08 56.7h7.9v3.74h-7.9z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-30.07 157.107 68.065)" d="M153.16 66.19h7.9v3.74h-7.9z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-10.12 161.512 79.75)" d="M157.52 77.88h7.9v3.74h-7.9z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-80.15 161.575 91.138)" d="M159.7 87.19h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-60.2 157.393 103.971)" d="M155.54 100.02h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-40.2 149.489 113.594)" d="M147.61 109.64h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-50.34 103.306 114.079)" d="M99.36 112.21h7.9v3.74h-7.9z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-30.34 95.168 104.614)" d="M91.24 102.75h7.9v3.74h-7.9z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-10.43 90.778 92.966)" d="M86.83 91.09h7.9v3.74h-7.9z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-80.44 90.614 80.493)" d="M88.75 76.54h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-60.48 94.726 68.723)" d="M92.85 64.77h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-40.49 102.608 59.066)" d="M100.73 55.11h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-12" transform="rotate(-20.51 113.34 52.671)" d="M111.44 48.72h3.74v7.9h-3.74z"></path>
+                  <path class="gm-icon-dashboard-cls-14" d="M145.67 84.6a19.83 19.83 0 0 0-19.83-19.84c7.17 6.07 19.83 19.84 0 39.67a19.83 19.83 0 0 0 19.83-19.83z"></path>
+                </svg>

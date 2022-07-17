@@ -1,0 +1,37 @@
+.why-main{
+    background-image: url("../assets/why/background-1.jpg");
+    background-size: cover;;
+}
+.why-main .text-row{
+    width: 50%;
+}
+.why-cards,.all-plans{
+    width:85%;
+}
+
+.why-card{
+    min-width:300px;
+    min-height:500px;
+    max-width:400px;
+    max-height: 750px;
+    border-top: 5px solid #ffab32;
+    margin:10px;
+}
+.why-card a{
+    position: absolute;
+    bottom:20px;
+    width: 70%;
+    display: block;
+}
+
+
+@media screen  and (max-width:800px) {
+ 
+    
+.why-main .text-row{
+    width: 80%;
+}
+    .why-cards,.all-plans{
+        width:100% !important;
+    }
+}

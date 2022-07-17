@@ -1,0 +1,111 @@
+.font-1 {
+    font-family: Signika, sans-serif;
+}
+
+.font-2 {
+    font-family: "Open Sans", sans-serif;
+}
+.fw-500{
+    font-weight: 500;
+}
+
+.color-1 {
+    color: #ffab32;
+}
+
+.color-2 {
+    color: #0e2e45;
+}
+
+.bg-color-1 {
+    color: #ffab32;
+}
+
+.bg-color-2 {
+    color: #0e2e45;
+}
+.bg-smoke{
+    background-color: whitesmoke;
+}
+
+.btn-genesis {
+    background: linear-gradient( 180deg, #ffc26a 0%, #ffc26a 30%, #ffb345 100%) !important;
+    color: white;
+    box-shadow: 0 2px 7.68px 0.32px rgba(0, 0, 0, 0.12), 0 4px 14.72px 1.28px rgba(0, 0, 0, 0.12) !important;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    height: 40px !important;
+    text-transform: uppercase;
+    line-height: 40px !important;
+    padding: 0 25px !important;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.btn-genesis:hover,
+.btn-genesis-transparent {
+    background: linear-gradient( 180deg, #ffba57 0%, #ffba57 30%, #ffab32 100%) !important;
+    color: white !important;
+}
+
+.btn-genesis-dark {
+    background: linear-gradient(175deg, #274c65 0%, #113a56 70%) !important;
+    color: white;
+    box-shadow: 0 2px 7.68px 0.32px rgba(0, 0, 0, 0.12), 0 4px 14.72px 1.28px rgba(0, 0, 0, 0.12) !important;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    height: 40px !important;
+    text-transform: uppercase;
+    line-height: 40px !important;
+    padding: 0 25px !important;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.btn-genesis-light {
+  background: #fffbf4;
+  color: #0e2e45;
+  box-shadow: 0 2px 7.68px 0.32px rgba(0, 0, 0, 0.12), 0 4px 14.72px 1.28px rgba(0, 0, 0, 0.12) !important;
+  border: none;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  height: 40px !important;
+  text-transform: uppercase;
+  line-height: 40px !important;
+  padding: 0 25px !important;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+.btn-genesis-light:hover{
+  background-color: #0e2e45;
+  color: wheat;
+}
+
+.btn-genesis-transparent {
+    background: transparent !important;
+    color: white;
+    box-shadow: 0 2px 7.68px 0.32px rgba(0, 0, 0, 0.12), 0 4px 14.72px 1.28px rgba(0, 0, 0, 0.12) !important;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    height: 40px !important;
+    text-transform: uppercase;
+    line-height: 40px !important;
+    padding: 0 25px !important;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid white;
+}
+
+.w-max{
+  width: max-content;
+}

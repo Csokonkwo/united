@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <script src="https://kit.fontawesome.com/27416b154a.js" crossorigin="anonymous"></script><link href="https://fonts.googleapis.com/css2?family=Padauk:wght@700&family=Roboto:wght@300&display=swap" rel="stylesheet"> 
+  
+    
+    
+    <title>Admin</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    
+    <header class="clearfix">
+        <div class="logo">
+            <img src="img/logo.png">
+        </div>
+        <div class="username">
+            Username
+        </div>
+        
+        <div class="menu_btn" onclick="menu_show()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        
+    </header>
+    
+    <aside>
+        <ul>
+            <li><a href=""><i class="fa fa-home"></i> Dashboard</a></li>
+            <li><a href=""><i class="fa fa-user"></i> Users</a></li>
+            <li><a href=""><i class="fa fa-history"></i> History</a></li>
+            <li><a href=""><i class="fas fa-coins"></i> Deposits</a></li>
+            <li><a href=""><i class="fa fa-credit-card"></i> Withdrawals</a></li>
+            <li><a href=""><i class="fas fa-briefcase"></i> Investments</a></li>
+            <li><a href=""><i class="fa fa-piggy-bank"></i> Interests</a></li>
+            <li><a href=""><i class="fa fa-envelope"></i> Email</a></li>
+            <li><a href=""><i class="fas fa-book-open"></i> Guides</a></li>
+            <li><a href=""><i class="fa fa-blog"></i> Blog</a></li>
+            <li><a href=""><i class="fa fa-sign-out"></i> Sign out</a></li>
+            <li><a href=""><i class="fas fa-angle-double-left"></i> My account</a></li>
+        </ul>
+    </aside>
+    
+    <main>
+        
+        <div class="stats">
+            <div class="container">
+                <div class="box">
+                    <a href="">Users</a>
+                    <div class="">
+                        <i class="fa fa-users"></i> <span>100,000,000</span>
+                    </div>
+                </div>
+                
+                <div class="box">
+                    <a href="">Deposits</a>
+                    <div class="">
+                        <i class="fa fa-bar-chart"></i> <span>$100</span>
+                    </div>
+                </div>
+                
+                <div class="box">
+                    <a href="">Withdrawals</a>
+                    <div class="">
+                        <i class="fa fa-pie-chart"></i> <span>$100</span>
+                    </div>
+                </div>
+                
+                <div class="box">
+                    <a href="">Investments</a>
+                    <div class="">
+                        <i class="fa fa-line-chart"></i> <span>$100</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="form">
+            <div class="container">
+                Enter a Transaction
+                <form method="POST" action="">
+                    <input name="" placeholder="User_ID">
+                    <input name="" placeholder="Amount">
+                    <input name="" placeholder="">
+                    
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+        
+        <div class="table">
+            <div class="container"> 
+                <i class="fa fa-calendar"> </i> All Deposit History
+                <table>
+                    <thead>
+                        <th>S/N</th>
+                        <th>USERNAME</th>
+                        <th>T_ID</th>
+                        <th>AMOUNT</th>
+                        <th colspan="3">ACTION</th>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>emma</td>
+                            <td>23423</td>
+                            <td>232323</td>
+                            <td><a href="">PEND</a></td>
+                            <td><a href="">CONFIRM</a></td>
+                            <td><a href="">CANCEL</a></td>
+                        </tr>
+                        
+                        <tr>
+                            <td>1</td>
+                            <td>emma</td>
+                            <td>23423</td>
+                            <td>232323</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                            <td>1</td>
+                            <td>emma</td>
+                            <td>23423</td>
+                            <td>232323</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                            <td>1</td>
+                            <td>emma</td>
+                            <td>23423</td>
+                            <td>232323</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                            <td>1</td>
+                            <td>emma</td>
+                            <td>23423</td>
+                            <td>232323</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        
+    </main>
+    
+    <script src="js/main.js"></script>
+    
+</body>
+</html>

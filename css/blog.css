@@ -1,0 +1,115 @@
+:root {
+    --color-content-bg: #fff;
+    --color-content-text: #333;
+    --color-content-primary-grad: linear-gradient(135deg, #003d63, #3392d6);
+    --color-content-faded: #999;
+    --color-content-heading: #113A56;
+    --color-content-link: #FFAB32;
+}
+
+img {
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+body nav.blog-navbar {}
+
+body nav.blog-navbar .nav-btn a.btn {
+    height: max-content !important;
+    text-align: center;
+    width: 35%;
+    font-size: 11px !important;
+}
+
+body nav.blog-navbar .nav-btn a.btn-genesis {
+    width: 45%;
+}
+
+.article-box {
+    background: var(--color-content-bg);
+    color: var(--color-content-text);
+    border-radius: 0.3rem;
+    box-shadow: 0 0.03rem 0.06rem rgb(0 0 0 / 10%), 0 0.1rem 0.3rem rgb(0 0 0 / 10%);
+}
+
+.article-img-box {
+    height: 40%;
+    width: 100%;
+}
+
+.tag-btn {
+    height: max-content;
+    text-decoration: none;
+    padding: 0.5em 1.2em;
+    border-radius: 5em;
+    background: var(--color-content-primary-grad);
+    color: #fff!important;
+    font-size: 10px;
+}
+
+.link-tags {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.article-text {
+    padding: 9% 11% 11% 11%!important;
+}
+
+.article-header {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-content-heading) !important;
+}
+
+.article-header a {
+    color: inherit;
+}
+
+.article-header a:hover {
+    color: var(--color-content-link);
+}
+
+.mid {
+    color: var(--color-content-faded)!important;
+    font-size: 0.9rem!important;
+}
+
+.article {
+    font-size: 16px;
+}
+
+nav ul.pagination li.page-item {
+    border: none !important;
+}
+
+nav ul.pagination li.page-item a.page-link {
+    margin: 2px;
+    border: none;
+    color: var(--color-content-text);
+    border-radius: 50%;
+}
+
+nav ul.pagination li.active-link a.page-link {
+    border-color: none;
+    background: var(--color-content-primary-grad);
+}
+
+
+/* utiities */
+
+.margin-large {
+    margin-top: 30vh;
+}
+
+@media screen and (max-width:991px) {
+    .margin-large {
+        margin-top: 24vh;
+    }
+}

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254.29 161.98" id="gm-icon-allocation">
+                  <defs>
+                    <style>
+                    .gm-icon-allocation-1 {
+                      fill: #e8eef1
+                    }
+
+                    .gm-icon-allocation-2 {
+                      fill: #fff
+                    }
+
+                    .gm-icon-allocation-17,
+                    .gm-icon-allocation-18,
+                    .gm-icon-allocation-8 {
+                      stroke-miterlimit: 10
+                    }
+
+                    .gm-icon-allocation-18,
+                    .gm-icon-allocation-8 {
+                      stroke-width: 2px
+                    }
+
+                    .gm-icon-allocation-4 {
+                      fill: #8bc9ed
+                    }
+
+                    .gm-icon-allocation-5 {
+                      fill: #fbb147
+                    }
+
+                    .gm-icon-allocation-6 {
+                      fill: #faa934
+                    }
+
+                    .gm-icon-allocation-7 {
+                      fill: #104470
+                    }
+
+                    .gm-icon-allocation-8 {
+                      fill: none;
+                      stroke: #8bc9ed
+                    }
+
+                    .gm-icon-allocation-18,
+                    .gm-icon-allocation-8 {
+                      stroke-linecap: round
+                    }
+
+                    .gm-icon-allocation-9 {
+                      fill: #094b7c
+                    }
+
+                    .gm-icon-allocation-13 {
+                      fill: #0f4470
+                    }
+
+                    .gm-icon-allocation-14 {
+                      fill: #e3e4e5
+                    }
+
+                    .gm-icon-allocation-15 {
+                      fill: #fcba63
+                    }
+
+                    .gm-icon-allocation-17,
+                    .gm-icon-allocation-18,
+                    .gm-icon-allocation-19 {
+                      fill: #e2e3e4
+                    }
+
+                    .gm-icon-allocation-17,
+                    .gm-icon-allocation-18 {
+                      stroke: #e3e4e5
+                    }
+                    </style>
+                  </defs>
+                  <ellipse class="gm-icon-allocation-1" cx="125.63" cy="92.78" rx="70.36" ry="67.35"></ellipse>
+                  <rect class="gm-icon-allocation-1" x="167.35" y="115.87" width="60.3" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-allocation-1" x="159.81" y="69.69" width="58.8" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-allocation-2" x="152.27" y="92.78" width="65.33" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-allocation-2" x="176.39" y="46.6" width="65.33" height="23.09" rx="8.5"></rect>
+                  <rect class="gm-icon-allocation-1" x="29.15" y="46.6" width="64.33" height="23.09" rx="8.5" transform="rotate(-180 61.31 58.14)"></rect>
+                  <rect class="gm-icon-allocation-1" x="42.21" y="92.78" width="60.3" height="23.09" rx="8.5" transform="rotate(-180 72.365 104.325)"></rect>
+                  <rect class="gm-icon-allocation-2" x="20.6" y="69.69" width="56.79" height="23.09" rx="8.5" transform="rotate(-180 49 81.235)"></rect>
+                  <rect class="gm-icon-allocation-1" y="92.78" width="32.16" height="23.09" rx="8.5"></rect>
+                  <path class="gm-icon-allocation-1" d="M238.2 69.69h4c6.64 0 12.07 5.19 12.07 11.54a11.85 11.85 0 0 1-12.07 11.55h-4a11.85 11.85 0 0 1-12.06-11.55 11.84 11.84 0 0 1 12.06-11.54z"></path>
+                  <rect class="gm-icon-allocation-2" x="75.88" y="46.6" width="36.18" height="23.09" rx="8.5" transform="rotate(-180 93.975 58.14)"></rect>
+                  <rect class="gm-icon-allocation-2" x="109.55" y="69.69" width="36.18" height="23.09" rx="8.5" transform="rotate(-180 127.645 81.235)"></rect>
+                  <rect class="gm-icon-allocation-2" x="45.73" y="115.87" width="57.79" height="23.09" rx="8.5" transform="rotate(-180 74.625 127.42)"></rect>
+                  <ellipse cx="15.48" cy="116.34" rx="2.51" ry="2.4" stroke-width="2" stroke-miterlimit="10" fill="#9fd3f2" stroke="#faa934"></ellipse>
+                  <path class="gm-icon-allocation-4" d="M75.31 29.87l-1.22 3.79-3.96 1.16 3.96 1.17 1.22 3.79 1.22-3.79 3.95-1.17-3.95-1.16-1.22-3.79z"></path>
+                  <path class="gm-icon-allocation-5" d="M131.59 152.07l-1.22 3.78-3.95 1.17 3.95 1.17 1.22 3.79 1.22-3.79 3.96-1.17-3.96-1.17-1.22-3.78z"></path>
+                  <path class="gm-icon-allocation-6" d="M56.21 80.86l-1.22 3.79-3.96 1.17 3.96 1.17 1.22 3.79 1.22-3.79 3.96-1.17-3.96-1.17-1.22-3.79z"></path>
+                  <path class="gm-icon-allocation-7" d="M64.49 118.82a1 1 0 0 0 1-1V114a1 1 0 0 0-2 0v3.85a1 1 0 0 0 1 .97zM64.49 130.36a1 1 0 0 0 1-1v-3.85a1 1 0 0 0-2 0v3.85a1 1 0 0 0 1 1zM56.46 122.67h4a1 1 0 1 0 0-1.93h-4a1 1 0 1 0 0 1.93zM68.51 122.67h4a1 1 0 1 0 0-1.93h-4a1 1 0 1 0 0 1.93z"></path>
+                  <ellipse class="gm-icon-allocation-7" cx="64.49" cy="121.71" rx="1" ry=".96"></ellipse>
+                  <path class="gm-icon-allocation-8" d="M167.01 23.57v3.84M167.01 35.11v3.84M158.97 31.26h4.02M171.03 31.26h4.02"></path>
+                  <ellipse class="gm-icon-allocation-4" cx="167.01" cy="31.26" rx="1" ry=".96"></ellipse>
+                  <path class="gm-icon-allocation-9" d="M89.12 146.92a1.22 1.22 0 0 0 0-2.44 1.22 1.22 0 0 0 0 2.44zM51.49 98.39v-.16a.57.57 0 0 0-1.13 0v.16a.57.57 0 0 0 1.13 0zM46.47 102.16a.47.47 0 0 0-.57.73c.49.49 1.17-.4.57-.73z"></path>
+                  <path class="gm-icon-allocation-6" d="M217.77 110.89a1.6 1.6 0 0 0 0-3.19 1.6 1.6 0 0 0 0 3.19z"></path>
+                  <path class="gm-icon-allocation-9" d="M193 84.28l.05-.09a1.57 1.57 0 0 0-2.13-2.14h-.1a1.59 1.59 0 1 0 2.18 2.23z"></path>
+                  <path class="gm-icon-allocation-4" d="M188.21 61.4a3.29 3.29 0 0 0 1.26 1.83 3.59 3.59 0 0 0 2.6.67 3.53 3.53 0 0 0 2.33-1.29 3.27 3.27 0 0 0 .7-2.49 3.34 3.34 0 0 0-1.35-2.23 3.63 3.63 0 0 0-2.6-.67 3.4 3.4 0 0 0-3 3.78 2.57 2.57 0 0 0 .06.4zm4.86-1.2a1 1 0 0 1 0 .17 1.44 1.44 0 0 1-.3 1.07 1.56 1.56 0 0 1-2.11.27 1.44 1.44 0 0 1-.58-1 1.46 1.46 0 0 1 1.3-1.62 1.5 1.5 0 0 1 1.69 1.11z"></path>
+                  <ellipse cx="52.29" cy="59.61" rx="2.51" ry="2.4" stroke-width="2" fill="none" stroke="#8bc9ed" stroke-miterlimit="10"></ellipse>
+                  <path class="gm-icon-allocation-8" d="M200.18 114.01v3.85M200.18 125.55v3.85M192.14 121.71h4.02M204.2 121.71h4.01"></path>
+                  <ellipse class="gm-icon-allocation-5" cx="200.18" cy="121.71" rx="1" ry=".96"></ellipse>
+                  <path class="gm-icon-allocation-7" d="M200.18 113.05a1 1 0 0 1 1 1v1.86h-2V114a1 1 0 0 1 1-.95z"></path>
+                  <circle cx="130.42" cy="97.34" r="50.06" fill="#9bbfd0" opacity=".6"></circle>
+                  <circle class="gm-icon-allocation-2" cx="125.71" cy="91.17" r="50.06"></circle>
+                  <path d="M175.11 90.79A50.07 50.07 0 0 0 125 40.73c18.1 15.31 50.07 50.06 0 100.12a50.07 50.07 0 0 0 50.11-50.06z" fill="#f2f2f3"></path>
+                  <path class="gm-icon-allocation-13" d="M171.78 67.11l-2.7 2.71A48.25 48.25 0 1 1 147 47.52c.9-.9 1.79-1.8 2.69-2.69a53.68 53.68 0 0 0-24.14-6 51.93 51.93 0 1 0 51.95 51.96 52.89 52.89 0 0 0-5.72-23.68z"></path>
+                  <path class="gm-icon-allocation-14" d="M143.32 63.55a35.21 35.21 0 0 0-17.75-5.27 32.51 32.51 0 1 0 32.51 32.51 35.12 35.12 0 0 0-5-17.28L150.36 76a28.84 28.84 0 1 1-9.62-9.77z"></path>
+                  <path class="gm-icon-allocation-15" d="M125.57 80.06a10.6 10.6 0 0 1 3 .43l2.53-2.76a12.12 12.12 0 0 0-5.55-1.31 14.37 14.37 0 1 0 14.37 14.37 11.65 11.65 0 0 0-1.07-5.07L136 88.26a10.73 10.73 0 1 1-10.43-8.2zM166.66 41.2l-2.54 2.79-.15 4.24.71.01 1.78-1.72.2-5.32zM171.24 50.7l-2.52 2.42 5.09.02 2.95-2.42-5.52-.02zM159.62 48.95l-2.54 2.79-.12 3.23h.71l1.79-1.71.16-4.31zM164.23 57.43l-2.52 2.42 3.89.01 2.95-2.41-4.32-.02z"></path>
+                  <path class="gm-icon-allocation-13" d="M150.6 61.77l.48-.47 1.74-1.67-.26-6.52 19.03-20.96-.18 9.1.53.01 1.94-1.86.27-13.68-24.06 26.49.39 9.67.12-.11zM192.52 44.1l-14.12-.28-2.48 2.38h.25l9.71.2-21.2 17.36-7.02-.02-2.53 2.43 10.42.02 26.97-22.09zM124.31 91.2a1.76 1.76 0 0 0 2.52.14l53.28-51.19-2.36-2.45-53.06 51s-1.47 1.3-.38 2.5z"></path>
+                  <circle cx="21.91" cy="51.89" r="2.64" stroke="#e3e4e5" fill="#e2e3e4" stroke-width="2" stroke-miterlimit="10"></circle>
+                  <path class="gm-icon-allocation-17" d="M84.85 146.74l-1.29-4.16-4.16-1.28 4.16-1.28 1.28-4.16 1.28 4.16 4.16 1.27-4.16 1.29-1.27 4.16zM143.86 12.57l-1.28-4.15-4.16-1.28 4.16-1.28 1.27-4.16 1.29 4.15 4.16 1.28-4.16 1.29-1.28 4.15zM64.73 90.79l-1.28-4.16-4.16-1.28 4.16-1.28 1.27-4.16 1.29 4.16 4.16 1.27-4.16 1.29-1.28 4.16zM73.4 49.12a1.05 1.05 0 0 1 1 1.06v4.22a1.06 1.06 0 0 1-2.11 0v-4.22a1.06 1.06 0 0 1 1.11-1.06zM73.39 36.46a1 1 0 0 1 1 1v4.22a1.06 1.06 0 0 1-2.12 0v-4.17a1.05 1.05 0 0 1 1.12-1.05zM65 44.91h4.22a1.06 1.06 0 0 1 0 2.12H65a1.06 1.06 0 0 1 0-2.11zM77.61 44.9h4.23a1.06 1.06 0 0 1 0 2.11h-4.22a1.06 1.06 0 0 1 0-2.11z"></path>
+                  <circle class="gm-icon-allocation-17" cx="73.39" cy="45.96" r="1.06"></circle>
+                  <path class="gm-icon-allocation-18" d="M181.2 153.57v-4.22M181.19 140.9l-.01-4.22M172.75 145.13h4.22M185.41 145.12h4.22"></path>
+                  <circle class="gm-icon-allocation-17" cx="181.19" cy="145.12" r="1.06"></circle>
+                  <path class="gm-icon-allocation-14" d="M99.24 20.82a1.22 1.22 0 0 0 0-2.44 1.22 1.22 0 0 0 0 2.44z"></path>
+                  <path class="gm-icon-allocation-19" d="M59.16 71.55v.18"></path>
+                  <path class="gm-icon-allocation-14" d="M58.6 71.55v.18a.56.56 0 0 0 1.12 0v-.18a.56.56 0 0 0-1.12 0z"></path>
+                  <path class="gm-icon-allocation-19" d="M54.23 67v.18"></path>
+                  <path class="gm-icon-allocation-14" d="M54 67.39h.07a.32.32 0 0 0 .33 0h.07a.47.47 0 1 0-.47 0zM234.44 61a1.6 1.6 0 0 0 0-3.19 1.6 1.6 0 0 0 0 3.19z"></path>
+                  <path class="gm-icon-allocation-19" d="M207 87.79l.18.18"></path>
+                  <path class="gm-icon-allocation-14" d="M206.21 89.17l.11.06a1.57 1.57 0 0 0 2.13-2.14l-.06-.1a1.59 1.59 0 1 0-2.18 2.18z"></path>
+                  <path class="gm-icon-allocation-17" d="M203.43 112a3.72 3.72 0 0 1 1.33-2 3.69 3.69 0 0 1 5.91 3.41 3.72 3.72 0 0 1-1.41 2.45 3.66 3.66 0 0 1-2.73.73 3.7 3.7 0 0 1-3.18-4.15c.02-.12.05-.27.08-.44zm5.12 1.31v-.19a1.54 1.54 0 0 0-.31-1.17 1.57 1.57 0 0 0-1.05-.6 1.53 1.53 0 0 0-1.17.31 1.58 1.58 0 1 0 2.5 1.65z"></path>
+                  <circle cx="60.64" cy="114.12" r="2.64" stroke="#e3e4e5" fill="#e2e3e4" stroke-width="2" stroke-miterlimit="10"></circle>
+                  <path class="gm-icon-allocation-18" d="M215.96 54.27v-4.22M215.95 41.61v-4.22M207.51 45.84l4.22-.01M220.17 45.83l4.23-.01"></path>
+                  <circle class="gm-icon-allocation-17" cx="215.95" cy="45.83" r="1.06"></circle>
+                  <path class="gm-icon-allocation-17" d="M216 55.33a1.07 1.07 0 0 0 1-1.06v-2h-2.1v2a1.07 1.07 0 0 0 1.1 1.06z"></path>
+                </svg>

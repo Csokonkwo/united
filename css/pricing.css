@@ -1,0 +1,54 @@
+.top-background{
+    min-height: 75vh;
+    background-image: url("../assets/pricing/backgound-1.jpg");
+    margin-top:3%;
+    background-size: cover;
+
+}
+.coin-btn{
+    padding-left:45px !important;
+    padding-right: 45px !important; 
+
+}
+.coin-btn.disabled{
+    background: rgba(197,197,191,0.39) !important;
+    box-shadow: none !important;
+}
+.coin-btn.disabled *{
+    opacity: 0.3;
+}
+
+.plan{
+    max-width: 280px;
+    margin:20px;
+}
+.laptop{
+    margin-top: 30% !important; 
+}
+.review-box{
+    max-width: 300px;
+    min-height: 600px;
+    position: relative;
+}
+.review-box .author{
+    bottom:25px;
+}
+
+.plan-cont{
+    display: none;
+}
+
+
+@media screen and (max-width:768px) {
+    
+    .coin-btns{
+        display: flex;
+        flex-direction: column;
+        width:80%;
+        max-width:280px;
+    }
+    .coin-btn{
+        margin-top:10px;
+    }
+}
+
